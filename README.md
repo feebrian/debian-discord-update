@@ -1,2 +1,5 @@
 # debian-discord-update
-Go program to update discord so that you don't have to concern about that "Must be your lucky day, there's a new update!"
+### "Must be your lucky day, there's a new update!"
+
+It sounds like a nightmare to me...
+So... I decided to create this program to make it less painful.
